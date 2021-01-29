@@ -40,8 +40,8 @@ pages
 -----
 various html pages for data visualization:
 
-https://rawcdn.githack.com/dmejiar/GW100/master/pages/pairwise.html
+https://rawcdn.githack.com/dmejiar/GW100/v0.1-beta/pages/pairwise.html
 
-https://rawcdn.githack.com/dmejiar/GW100/master/pages/compare_all.html
+https://rawcdn.githack.com/dmejiar/GW100/v0.1-beta/pages/compare_all.html
 
-https://rawcdn.githack.com/dmejiar/GW100/master/pages/matrix.html
+https://rawcdn.githack.com/dmejiar/GW100/v0.1-beta/pages/matrix.html
