@@ -112,6 +112,7 @@
     "basis_name": "def2-QZVP",
     "basis_size": "4",
     "remark": "RI jkfit",
+    "method": "CD",
     "parameters": {
         "ngl": 128
     }
